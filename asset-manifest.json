@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/game-genres/static/css/main.309772bd.css",
+    "main.js": "/game-genres/static/js/main.d21de277.js",
+    "static/media/divinity.jpg": "/game-genres/static/media/divinity.46ed7630390e0e433fe4.jpg",
+    "static/media/re4.png": "/game-genres/static/media/re4.6567af638f5c39fda6bb.png",
+    "static/media/sports.jpg": "/game-genres/static/media/sports.2f753e532aa31d5ac0c8.jpg",
+    "static/media/hollow.jpg": "/game-genres/static/media/hollow.6cc8b7cf41ca2f88bdc8.jpg",
+    "static/media/FPS.jpg": "/game-genres/static/media/FPS.0e70273a21c08cfaacf2.jpg",
+    "static/media/blue-games-retro-plain.jpg": "/game-genres/static/media/blue-games-retro-plain.736d746408cfd4ae2a02.jpg",
+    "static/media/wow.jpeg": "/game-genres/static/media/wow.7080dbea0db7a033d4c6.jpeg",
+    "static/media/SF.jpg": "/game-genres/static/media/SF.f9daf1d5c0637c1a19e4.jpg",
+    "static/media/Vg_icon.svg": "/game-genres/static/media/Vg_icon.ab9c580518282041a19dc19400c67e70.svg",
+    "static/media/metalslug.jpeg": "/game-genres/static/media/metalslug.5eb00d7edad4695c2dd3.jpeg",
+    "index.html": "/game-genres/index.html",
+    "main.309772bd.css.map": "/game-genres/static/css/main.309772bd.css.map",
+    "main.d21de277.js.map": "/game-genres/static/js/main.d21de277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309772bd.css",
+    "static/js/main.d21de277.js"
+  ]
+}
